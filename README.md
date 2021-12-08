@@ -1,4 +1,4 @@
 ## bengali-newspaper-articles-classification
 
 ### Presentation
-![dsw-newsreader-saurav.mp4](dsw-newsreader-saurav.mp4)
+https://github.com/sksdotsauravs-beuth/bengali-newspaper-articles-classification/blob/main/dsw-newsreader-saurav.mp4
